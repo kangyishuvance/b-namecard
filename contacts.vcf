@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Vance Kang
+N:Kang;Vance ;;;
+item1.EMAIL;TYPE=INTERNET:vance.kang@jstance.com.sg
+item1.X-ABLabel:
+item2.TEL:9651 4268
+item2.X-ABLabel:
+ORG:JS Tan Consultants
+TITLE:Professional Engineer
+CATEGORIES:myContacts
+END:VCARD
